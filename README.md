@@ -11,11 +11,11 @@ I am interested in using **multimodality (vision, sound)** to make AI behave **l
 ## 🌱 I’m currently learning...
 - Art&Technology<br/>
 - CyberSecurity<br/>
-- **Computer Vision** (Image Segmentation, Depth Estimation)<br/>
+- **Computer Vision** (Multimodality)<br/>
 - **Machine Learning**
 
 ## 💞️ I’m looking to collaborate on ...
-	Anyone interested in my interests.
+	Anyone interested in my interests.♥️
 
 ## 📫 Contact Information
 - E-mail : yjh9929@cau.ac.kr
