@@ -13,7 +13,7 @@ An M.S. student in AI at CVML Lab, CAU (Seoul, Korea)
 
 ## 🔭 Current Research  
 - Multimodal generation using image-to-music models  
-- Depth estimation with thermal and grayscale imaging (Patent filed)
+- Depth estimation with thermal and grayscale imaging
 
 ## 💬 Background  
 With an interdisciplinary foundation in Art & Technology and Cybersecurity,  
@@ -25,7 +25,7 @@ I explore how AI can interpret human context and create meaningful, human-aligne
 - Email: yjh9929@cau.ac.kr  
 - Website: [jihee.pages.dev](https://jihee.pages.dev)  
 - GitHub: [@yjh9929](https://github.com/yjh9929)  
-- LinkedIn: *[LikedIn](https://www.linkedin.com/in/jihee-yoon-5403b1218/)*  
+- LinkedIn: [LikedIn](https://www.linkedin.com/in/jihee-yoon-5403b1218/)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjh9929&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=yjh9929&show_icons=true">
